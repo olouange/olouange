@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @olouange
+- 👀 I’m interested in Robotic
+- 🌱 I’m currently learning Embarded Systems
+- 📫 Contact me on : Ange.olou@etu.univ-grenoble-alpes.fr or Oloubruno03@gmail.com
